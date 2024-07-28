@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paymob integration", "paymob integration\paymob integration.csproj", "{DDED9ABC-92EB-44E3-863C-F15998A1500A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDED9ABC-92EB-44E3-863C-F15998A1500A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDED9ABC-92EB-44E3-863C-F15998A1500A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDED9ABC-92EB-44E3-863C-F15998A1500A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDED9ABC-92EB-44E3-863C-F15998A1500A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94769939-F0DE-44C8-8533-C8EB3FA7E2CC}
+	EndGlobalSection
+EndGlobal

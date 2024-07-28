@@ -1,0 +1,6 @@
+@paymob_integration_HostAddress = http://localhost:5198
+
+GET {{paymob_integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
